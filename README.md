@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miriamschzg
 - 👀 I’m interested in big data, data analysis, bioinformatics and web development!
-- 🌱 I’m currently learning to become a Data Analyst
+- 🌱 I’m currently learning in a Data Analysis Bootcamp
 - 💞️ I’m looking to collaborate on web design, bioinformatics/biostatistics and data analysis proyects
 - 📫 How to reach me miriamsanchg@gmail.com
 - 😄 Pronouns: she/her
